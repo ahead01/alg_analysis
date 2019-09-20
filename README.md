@@ -5,3 +5,7 @@ Advanced Algorithm Analysis
  Binary Search Trees
  
  AVL Trees
+
+Stacks and Heaps
+
+Various assingments testing the structures
